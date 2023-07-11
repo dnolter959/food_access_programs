@@ -1,1 +1,3 @@
 # n1_food_access
+- This is my analysis of low food access among the 65+ population in the US. More details of the analysis are available in n1_data_challenge.ipynb.
+- In order to create plots which are maps, you must down download and the load (In the "Mapping important variables" section) the US county-level shapefile, found here:  https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
