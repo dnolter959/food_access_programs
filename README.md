@@ -1,12 +1,14 @@
 # Overview
 The purpose of this analysis was to use publically available data sources to identify US counties which would be good targets for a government program to address poor food accesss. I sought to identify communities that would be well served by such a program, and also estimate the health impact of these programs. 
 
-## Data Sources
+**Data Sources**
 
 [CDC - 500 Cities Project](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb/about_data)
+
 [FDA – Food Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
 
-## Notes
+**Notes**
+
 - *food_access_analysis.ipynb* is my full analysis file and includes:
   -  Statement of assumptions
   - Data checks and EDA and summaries of findings
